@@ -1,0 +1,17 @@
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.0\TicTacToe.exe
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.0\TicTacToe.deps.json
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.0\TicTacToe.runtimeconfig.json
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.0\TicTacToe.runtimeconfig.dev.json
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.0\TicTacToe.dll
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.0\TicTacToe.pdb
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe_MarkupCompile.cache
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe_MarkupCompile.lref
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe.g.resources
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe.AssemblyInfo.cs
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe.dll
+C:\Users\Jake\Desktop\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe.pdb
